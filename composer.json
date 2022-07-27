@@ -13,8 +13,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
-        "elendev/composer-push": "^1.0"
+        "php": ">=7.0"
     },
     "autoload": {
         "psr-4": {
@@ -27,13 +26,6 @@
     "config": {
         "allow-plugins": {
             "elendev/composer-push": true
-        }
-    },
-    {
-        "name": "app2u_articstudio/Redsys",
-        "description": "Redsys package",
-        "require": {
-            "php": ">=7.0",
         }
     }
 }
