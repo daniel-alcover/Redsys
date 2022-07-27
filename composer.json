@@ -1,0 +1,39 @@
+{
+    "name": "app2u_articstudio/redsys",
+    "description": "Redsys library",
+    "type": "library",
+    "keywords": ["redsys"],
+    "homepage": "https://github.com/articstudio/Redsys",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marc Mascort Bou",
+            "email": "marc@articstudio.com",
+            "homepage": "https://articstudio.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "elendev/composer-push": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "app2u_Articstudio\\Redsys\\": "src/"
+        }
+    },
+    "archive": {
+        "exclude": ["/demo"]
+    },
+    "config": {
+        "allow-plugins": {
+            "elendev/composer-push": true
+        }
+    },
+    {
+        "name": "app2u_articstudio/Redsys",
+        "description": "Redsys package",
+        "require": {
+            "php": ">=7.0",
+        }
+    }
+}
