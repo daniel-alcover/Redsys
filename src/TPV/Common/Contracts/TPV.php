@@ -1,10 +1,10 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Common\Contracts;
+namespace app2u_articstudio\redsys\TPV\Common\Contracts;
 
-use Articstudio\Redsys\TPV\Common\Contracts\Request as RequestContract;
-use Articstudio\Redsys\TPV\Common\Contracts\Signature as SignatureContract;
-use Articstudio\Redsys\TPV\Common\Contracts\Environment as EnvironmentContract;
+use app2u_articstudio\redsys\TPV\Common\Contracts\Request as RequestContract;
+use app2u_articstudio\redsys\TPV\Common\Contracts\Signature as SignatureContract;
+use app2u_articstudio\redsys\TPV\Common\Contracts\Environment as EnvironmentContract;
 
 interface TPV
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Redirect\Contracts;
+namespace app2u_articstudio\redsys\TPV\Redirect\Contracts;
 
-use Articstudio\Redsys\TPV\Common\Contracts\TPV as TPVContract;
+use app2u_articstudio\redsys\TPV\Common\Contracts\TPV as TPVContract;
 
 interface TPV extends TPVContract
 {

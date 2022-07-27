@@ -1,15 +1,15 @@
 {
     "name": "app2u_articstudio/redsys",
-    "description": "Redsys library",
+    "description": "redsys library",
     "type": "library",
     "keywords": ["redsys"],
-    "homepage": "https://github.com/articstudio/Redsys",
+    "homepage": "https://github.com/daniel-alcover/redsys",
     "license": "MIT",
     "authors": [
         {
-            "name": "Marc Mascort Bou",
-            "email": "marc@articstudio.com",
-            "homepage": "https://articstudio.com"
+            "name": "",
+            "email": "",
+            "homepage": ""
         }
     ],
     "require": {
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "app2u_Articstudio\\Redsys\\": "src/"
+            "app2u_articstudio\\redsys\\": "src/"
         }
     },
     "archive": {

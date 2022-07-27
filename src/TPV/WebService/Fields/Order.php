@@ -1,8 +1,8 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Webservice\Fields;
+namespace app2u_articstudio\redsys\TPV\Webservice\Fields;
 
-use Articstudio\Redsys\TPV\Common\Fields\Order as AbstractOrder;
+use app2u_articstudio\redsys\TPV\Common\Fields\Order as AbstractOrder;
 
 class Order extends AbstractOrder
 {

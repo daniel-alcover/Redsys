@@ -1,7 +1,7 @@
 <?php
-namespace Articstudio\Redsys\TPV\Redirect\Fields;
+namespace app2u_articstudio\redsys\TPV\Redirect\Fields;
 
-use Articstudio\Redsys\TPV\Common\Fields\MerchantIdentifier as AbstractMerchantIdentifier;
+use app2u_articstudio\redsys\TPV\Common\Fields\MerchantIdentifier as AbstractMerchantIdentifier;
 
 class MerchantIdentifier extends AbstractMerchantIdentifier
 {

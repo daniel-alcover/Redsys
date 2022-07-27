@@ -1,10 +1,10 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\WebService;
+namespace app2u_articstudio\redsys\TPV\WebService;
 
-use Articstudio\Redsys\TPV\Common\TPV\TPV as AbstractTPV;
-use Articstudio\Redsys\TPV\Webservice\Contracts\TPV AS TPVContract;
-use Articstudio\Redsys\TPV\WebService\Request\Request;
+use app2u_articstudio\redsys\TPV\Common\TPV\TPV as AbstractTPV;
+use app2u_articstudio\redsys\TPV\Webservice\Contracts\TPV AS TPVContract;
+use app2u_articstudio\redsys\TPV\WebService\Request\Request;
 use Curl\Curl;
 use DOMDocument;
 use DOMElement;

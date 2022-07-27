@@ -1,6 +1,6 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\WebService\Client;
+namespace app2u_articstudio\redsys\TPV\WebService\Client;
 
 class consultaDCCResponse
 {
@@ -28,7 +28,7 @@ class consultaDCCResponse
 
     /**
      * @param string $consultaDCCReturn
-     * @return \Articstudio\Redsys\TPV\WebService\Client\consultaDCCResponse
+     * @return \app2u_articstudio\redsys\TPV\WebService\Client\consultaDCCResponse
      */
     public function setConsultaDCCReturn($consultaDCCReturn)
     {

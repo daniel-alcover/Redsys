@@ -1,8 +1,8 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Common\Signature;
+namespace app2u_articstudio\redsys\TPV\Common\Signature;
 
-use Articstudio\Redsys\TPV\Common\Contracts\Signature as SignatureContract;
+use app2u_articstudio\redsys\TPV\Common\Contracts\Signature as SignatureContract;
 
 abstract class Signature implements SignatureContract
 {

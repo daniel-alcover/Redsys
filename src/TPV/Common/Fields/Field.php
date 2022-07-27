@@ -1,8 +1,8 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Common\Fields;
+namespace app2u_articstudio\redsys\TPV\Common\Fields;
 
-use Articstudio\Redsys\TPV\Common\Contracts\Field as FieldContract;
+use app2u_articstudio\redsys\TPV\Common\Contracts\Field as FieldContract;
 use InvalidArgumentException;
 
 abstract class Field implements FieldContract

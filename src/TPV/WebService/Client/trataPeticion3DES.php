@@ -1,6 +1,6 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\WebService\Client;
+namespace app2u_articstudio\redsys\TPV\WebService\Client;
 
 class trataPeticion3DES
 {
@@ -28,7 +28,7 @@ class trataPeticion3DES
 
     /**
      * @param string $datoEntrada
-     * @return \Articstudio\Redsys\TPV\WebService\Client\trataPeticion3DES
+     * @return \app2u_articstudio\redsys\TPV\WebService\Client\trataPeticion3DES
      */
     public function setDatoEntrada($datoEntrada)
     {

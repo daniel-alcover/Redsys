@@ -1,6 +1,6 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\WebService\Client;
+namespace app2u_articstudio\redsys\TPV\WebService\Client;
 
 class consultaBIN
 {
@@ -28,7 +28,7 @@ class consultaBIN
 
     /**
      * @param string $datoEntrada
-     * @return \Articstudio\Redsys\TPV\WebService\Client\consultaBIN
+     * @return \app2u_articstudio\redsys\TPV\WebService\Client\consultaBIN
      */
     public function setDatoEntrada($datoEntrada)
     {

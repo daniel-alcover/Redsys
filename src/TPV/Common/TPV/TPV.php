@@ -1,12 +1,12 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Common\TPV;
+namespace app2u_articstudio\redsys\TPV\Common\TPV;
 
-use Articstudio\Redsys\TPV\Common\Contracts\TPV as TPVContract;
+use app2u_articstudio\redsys\TPV\Common\Contracts\TPV as TPVContract;
 use Traversable;
-use Articstudio\Redsys\TPV\Common\Contracts\Request as RequestContract;
-use Articstudio\Redsys\TPV\Common\Contracts\Signature as SignatureContract;
-use Articstudio\Redsys\TPV\Common\Contracts\Environment as EnvironmentContract;
+use app2u_articstudio\redsys\TPV\Common\Contracts\Request as RequestContract;
+use app2u_articstudio\redsys\TPV\Common\Contracts\Signature as SignatureContract;
+use app2u_articstudio\redsys\TPV\Common\Contracts\Environment as EnvironmentContract;
 
 abstract class TPV implements TPVContract
 {
@@ -25,7 +25,7 @@ abstract class TPV implements TPVContract
     }
     if (!$request instanceof RequestContract)
     {
-      throw new InvalidArgumentException('Expected a \Articstudio\Redsys\TPV\Webservice\Contracts\Request');
+      throw new InvalidArgumentException('Expected a \app2u_articstudio\redsys\TPV\Webservice\Contracts\Request');
     }
     $this->setRequest($request);
   }

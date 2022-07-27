@@ -1,8 +1,8 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Redirect\Fields;
+namespace app2u_articstudio\redsys\TPV\Redirect\Fields;
 
-use Articstudio\Redsys\TPV\Common\Fields\Terminal as AbstractTerminal;
+use app2u_articstudio\redsys\TPV\Common\Fields\Terminal as AbstractTerminal;
 
 class Terminal extends AbstractTerminal
 {

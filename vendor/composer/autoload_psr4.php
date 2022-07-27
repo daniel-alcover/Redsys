@@ -16,5 +16,5 @@ return array(
     'GuzzleHttp\\Promise\\' => array($vendorDir . '/guzzlehttp/promises/src'),
     'GuzzleHttp\\' => array($vendorDir . '/guzzlehttp/guzzle/src'),
     'Elendev\\ComposerPush\\' => array($vendorDir . '/elendev/composer-push/src'),
-    'Articstudio\\Redsys\\' => array($baseDir . '/src'),
+    'app2u_articstudio\\redsys\\' => array($baseDir . '/src'),
 );

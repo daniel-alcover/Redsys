@@ -1,8 +1,8 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\WebService\Request;
+namespace app2u_articstudio\redsys\TPV\WebService\Request;
 
-use Articstudio\Redsys\TPV\Common\Request\Request as AbstractRequest;
+use app2u_articstudio\redsys\TPV\Common\Request\Request as AbstractRequest;
 
 class Request extends AbstractRequest
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Redirect\Environment;
+namespace app2u_articstudio\redsys\TPV\Redirect\Environment;
 
-use Articstudio\Redsys\TPV\Common\Environment\Environment as AbstractEnvironment;
+use app2u_articstudio\redsys\TPV\Common\Environment\Environment as AbstractEnvironment;
 
 class TestEnvironment extends AbstractEnvironment
 {

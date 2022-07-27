@@ -1,9 +1,9 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Redirect\Request;
+namespace app2u_articstudio\redsys\TPV\Redirect\Request;
 
-use Articstudio\Redsys\TPV\Redirect\Request\Request;
-use Articstudio\Redsys\TPV\Redirect\Fields\Transaction;
+use app2u_articstudio\redsys\TPV\Redirect\Request\Request;
+use app2u_articstudio\redsys\TPV\Redirect\Fields\Transaction;
 
 class AuthorizationRequest extends Request
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\WebService\Client;
+namespace app2u_articstudio\redsys\TPV\WebService\Client;
 
 class consultaDCC
 {
@@ -28,7 +28,7 @@ class consultaDCC
 
     /**
      * @param string $datoEntrada
-     * @return \Articstudio\Redsys\TPV\WebService\Client\consultaDCC
+     * @return \app2u_articstudio\redsys\TPV\WebService\Client\consultaDCC
      */
     public function setDatoEntrada($datoEntrada)
     {

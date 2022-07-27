@@ -1,9 +1,9 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\WebService\Request;
+namespace app2u_articstudio\redsys\TPV\WebService\Request;
 
-use Articstudio\Redsys\TPV\WebService\Request\Request;
-use Articstudio\Redsys\TPV\WebService\Fields\Transaction;
+use app2u_articstudio\redsys\TPV\WebService\Request\Request;
+use app2u_articstudio\redsys\TPV\WebService\Fields\Transaction;
 
 class PaymentRequest extends Request
 {

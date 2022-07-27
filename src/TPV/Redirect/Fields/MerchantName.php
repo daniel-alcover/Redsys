@@ -1,8 +1,8 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Redirect\Fields;
+namespace app2u_articstudio\redsys\TPV\Redirect\Fields;
 
-use Articstudio\Redsys\TPV\Common\Fields\MerchantName as AbstractMerchantName;
+use app2u_articstudio\redsys\TPV\Common\Fields\MerchantName as AbstractMerchantName;
 
 class MerchantName extends AbstractMerchantName
 {

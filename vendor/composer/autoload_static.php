@@ -40,7 +40,7 @@ class ComposerStaticInit870d97608f8c7d82f6a9e3cf7c07e5da
         ),
         'A' => 
         array (
-            'Articstudio\\Redsys\\' => 19,
+            'app2u_articstudio\\redsys\\' => 19,
         ),
     );
 
@@ -86,7 +86,7 @@ class ComposerStaticInit870d97608f8c7d82f6a9e3cf7c07e5da
         array (
             0 => __DIR__ . '/..' . '/elendev/composer-push/src',
         ),
-        'Articstudio\\Redsys\\' => 
+        'app2u_articstudio\\redsys\\' =>
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

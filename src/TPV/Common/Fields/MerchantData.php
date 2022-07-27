@@ -1,8 +1,8 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Common\Fields;
+namespace app2u_articstudio\redsys\TPV\Common\Fields;
 
-use Articstudio\Redsys\TPV\Common\Fields\Field;
+use app2u_articstudio\redsys\TPV\Common\Fields\Field;
 
 abstract class MerchantData extends Field
 {

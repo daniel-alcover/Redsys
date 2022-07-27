@@ -1,8 +1,8 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Redirect\Signature;
+namespace app2u_articstudio\redsys\TPV\Redirect\Signature;
 
-use Articstudio\Redsys\TPV\Common\Signature\Signature_HMAC_SHA256 as AbstractSignature;
+use app2u_articstudio\redsys\TPV\Common\Signature\Signature_HMAC_SHA256 as AbstractSignature;
 
 class Signature_HMAC_SHA256 extends AbstractSignature {
 

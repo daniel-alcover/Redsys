@@ -1,6 +1,6 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\WebService\Client;
+namespace app2u_articstudio\redsys\TPV\WebService\Client;
 
 class SerClsWSEntradaService extends \SoapClient
 {
@@ -9,14 +9,14 @@ class SerClsWSEntradaService extends \SoapClient
    * @var array $classmap The defined classes
    */
   private static $classmap = array(
-    'trataPeticion' => 'Articstudio\\Redsys\\TPV\\WebService\\Client\\trataPeticion',
-    'trataPeticionResponse' => 'Articstudio\\Redsys\\TPV\\WebService\\Client\\trataPeticionResponse',
-    'trataPeticion3DES' => 'Articstudio\\Redsys\\TPV\\WebService\\Client\\trataPeticion3DES',
-    'trataPeticionResponse3DES' => 'Articstudio\\Redsys\\TPV\\WebService\\Client\\trataPeticionResponse3DES',
-    'consultaDCC' => 'Articstudio\\Redsys\\TPV\\WebService\\Client\\consultaDCC',
-    'consultaDCCResponse' => 'Articstudio\\Redsys\\TPV\\WebService\\Client\\consultaDCCResponse',
-    'consultaBIN' => 'Articstudio\\Redsys\\TPV\\WebService\\Client\\consultaBIN',
-    'consultaBINResponse' => 'Articstudio\\Redsys\\TPV\\WebService\\Client\\consultaBINResponse',
+    'trataPeticion' => 'app2u_articstudio\\redsys\\TPV\\WebService\\Client\\trataPeticion',
+    'trataPeticionResponse' => 'app2u_articstudio\\redsys\\TPV\\WebService\\Client\\trataPeticionResponse',
+    'trataPeticion3DES' => 'app2u_articstudio\\redsys\\TPV\\WebService\\Client\\trataPeticion3DES',
+    'trataPeticionResponse3DES' => 'app2u_articstudio\\redsys\\TPV\\WebService\\Client\\trataPeticionResponse3DES',
+    'consultaDCC' => 'app2u_articstudio\\redsys\\TPV\\WebService\\Client\\consultaDCC',
+    'consultaDCCResponse' => 'app2u_articstudio\\redsys\\TPV\\WebService\\Client\\consultaDCCResponse',
+    'consultaBIN' => 'app2u_articstudio\\redsys\\TPV\\WebService\\Client\\consultaBIN',
+    'consultaBINResponse' => 'app2u_articstudio\\redsys\\TPV\\WebService\\Client\\consultaBINResponse',
   );
 
   /**

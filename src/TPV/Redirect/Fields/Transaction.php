@@ -1,8 +1,8 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Redirect\Fields;
+namespace app2u_articstudio\redsys\TPV\Redirect\Fields;
 
-use Articstudio\Redsys\TPV\Common\Fields\Transaction as AbstractTransaction;
+use app2u_articstudio\redsys\TPV\Common\Fields\Transaction as AbstractTransaction;
 
 class Transaction extends AbstractTransaction
 {

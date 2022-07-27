@@ -1,6 +1,6 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Common\Contracts;
+namespace app2u_articstudio\redsys\TPV\Common\Contracts;
 
 interface Signature
 {

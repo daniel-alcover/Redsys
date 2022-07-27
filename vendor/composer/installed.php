@@ -1,6 +1,6 @@
 <?php return array(
     'root' => array(
-        'name' => 'app2u_articstudio/redsys',
+        'name' => 'app2u_app2u_articstudio/redsys',
         'pretty_version' => '1.0.0+no-version-set',
         'version' => '1.0.0.0',
         'reference' => NULL,
@@ -10,7 +10,7 @@
         'dev' => true,
     ),
     'versions' => array(
-        'app2u_articstudio/redsys' => array(
+        'app2u_app2u_articstudio/redsys' => array(
             'pretty_version' => '1.0.0+no-version-set',
             'version' => '1.0.0.0',
             'reference' => NULL,

@@ -1,8 +1,8 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Redirect\Fields;
+namespace app2u_articstudio\redsys\TPV\Redirect\Fields;
 
-use Articstudio\Redsys\TPV\Common\Fields\Currency as AbstractCurrency;
+use app2u_articstudio\redsys\TPV\Common\Fields\Currency as AbstractCurrency;
 
 class Currency extends AbstractCurrency
 {

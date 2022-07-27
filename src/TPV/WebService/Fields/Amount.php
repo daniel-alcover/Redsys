@@ -1,8 +1,8 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Webservice\Fields;
+namespace app2u_articstudio\redsys\TPV\Webservice\Fields;
 
-use Articstudio\Redsys\TPV\Common\Fields\Amount as AbstractAmount;
+use app2u_articstudio\redsys\TPV\Common\Fields\Amount as AbstractAmount;
 
 class Amount extends AbstractAmount
 {

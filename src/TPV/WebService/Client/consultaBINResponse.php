@@ -1,6 +1,6 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\WebService\Client;
+namespace app2u_articstudio\redsys\TPV\WebService\Client;
 
 class consultaBINResponse
 {
@@ -28,7 +28,7 @@ class consultaBINResponse
 
     /**
      * @param string $consultaBINReturn
-     * @return \Articstudio\Redsys\TPV\WebService\Client\consultaBINResponse
+     * @return \app2u_articstudio\redsys\TPV\WebService\Client\consultaBINResponse
      */
     public function setConsultaBINReturn($consultaBINReturn)
     {

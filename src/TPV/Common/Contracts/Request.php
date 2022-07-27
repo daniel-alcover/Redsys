@@ -1,8 +1,8 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Common\Contracts;
+namespace app2u_articstudio\redsys\TPV\Common\Contracts;
 
-use Articstudio\Redsys\TPV\Common\Contracts\Field as FieldContract;
+use app2u_articstudio\redsys\TPV\Common\Contracts\Field as FieldContract;
 
 interface Request
 {

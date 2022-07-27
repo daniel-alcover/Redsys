@@ -1,8 +1,8 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Common\Environment;
+namespace app2u_articstudio\redsys\TPV\Common\Environment;
 
-use Articstudio\Redsys\TPV\Common\Contracts\Environment as EnvironmentContract;
+use app2u_articstudio\redsys\TPV\Common\Contracts\Environment as EnvironmentContract;
 
 abstract class Environment implements EnvironmentContract
 {

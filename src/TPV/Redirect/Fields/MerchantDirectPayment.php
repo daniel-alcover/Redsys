@@ -1,7 +1,7 @@
 <?php
-namespace Articstudio\Redsys\TPV\Redirect\Fields;
+namespace app2u_articstudio\redsys\TPV\Redirect\Fields;
 
-use Articstudio\Redsys\TPV\Common\Fields\MerchantDirectPayment as AbstractMerchantDirectPayment;
+use app2u_articstudio\redsys\TPV\Common\Fields\MerchantDirectPayment as AbstractMerchantDirectPayment;
 
 class MerchantDirectPayment extends AbstractMerchantDirectPayment
 {

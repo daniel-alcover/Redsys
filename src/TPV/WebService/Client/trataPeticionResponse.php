@@ -1,6 +1,6 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\WebService\Client;
+namespace app2u_articstudio\redsys\TPV\WebService\Client;
 
 class trataPeticionResponse
 {
@@ -28,7 +28,7 @@ class trataPeticionResponse
 
     /**
      * @param string $trataPeticionReturn
-     * @return \Articstudio\Redsys\TPV\WebService\Client\trataPeticionResponse
+     * @return \app2u_articstudio\redsys\TPV\WebService\Client\trataPeticionResponse
      */
     public function setTrataPeticionReturn($trataPeticionReturn)
     {

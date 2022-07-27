@@ -1,10 +1,10 @@
 <?php
 
-namespace Articstudio\Redsys\TPV\Common\Request;
+namespace app2u_articstudio\redsys\TPV\Common\Request;
 
-use Articstudio\Redsys\TPV\Common\Contracts\Field as FieldContract;
-use Articstudio\Redsys\TPV\Common\Fields\Order;
-use Articstudio\Redsys\TPV\Common\Contracts\Request as RequestContract;
+use app2u_articstudio\redsys\TPV\Common\Contracts\Field as FieldContract;
+use app2u_articstudio\redsys\TPV\Common\Fields\Order;
+use app2u_articstudio\redsys\TPV\Common\Contracts\Request as RequestContract;
 use Traversable;
 
 abstract class Request implements RequestContract

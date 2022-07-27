@@ -1,9 +1,9 @@
 <?php
-namespace Articstudio\Redsys\TPV\Redirect;
+namespace app2u_articstudio\redsys\TPV\Redirect;
 
-use Articstudio\Redsys\TPV\Common\TPV\TPV as AbstractTPV;
-use Articstudio\Redsys\TPV\Redirect\Contracts\TPV AS TPVContract;
-use Articstudio\Redsys\TPV\Redirect\Request\Request;
+use app2u_articstudio\redsys\TPV\Common\TPV\TPV as AbstractTPV;
+use app2u_articstudio\redsys\TPV\Redirect\Contracts\TPV AS TPVContract;
+use app2u_articstudio\redsys\TPV\Redirect\Request\Request;
 
 class TPV extends AbstractTPV implements TPVContract
 {
